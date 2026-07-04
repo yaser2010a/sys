@@ -1,0 +1,51 @@
+{
+    "ban_status_1464582604391977106": "on",
+    "ban_limit_1464582604391977106": 3,
+    "ban_users_1464582604391977106": [
+        {
+            "userid": "1503175346004955207",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        }
+    ],
+    "antibots_status_1464582604391977106": "off",
+    "antideleteroles_status_1464582604391977106": "on",
+    "antideleteroles_limit_1464582604391977106": 5,
+    "rolesdelete_users_1464582604391977106": [
+        {
+            "userid": "1503175346004955207",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        },
+        {
+            "userid": "1363178020621254776",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        },
+        {
+            "userid": "1502815873097011372",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        }
+    ],
+    "antideleterooms_status_1464582604391977106": "on",
+    "antideleterooms_limit_1464582604391977106": 5,
+    "roomsdelete_users_1464582604391977106": [
+        {
+            "userid": "1503175346004955207",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        },
+        {
+            "userid": "1502815873097011372",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        },
+        {
+            "userid": "1363178020621254776",
+            "limit": 0,
+            "newReset": "2026-06-20"
+        }
+    ],
+    "protectLog_room_1464582604391977106": "1505909753434607686"
+}

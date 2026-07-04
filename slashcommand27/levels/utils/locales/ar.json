@@ -1,0 +1,11 @@
+{
+ "levels": {
+    "systemStatus": "<:circlecheck:1519212246876557413> **نظام المستويات الآن {status}**",
+    "channelSet": "<:circlecheck:1519212246876557413> **تم تحديد روم إشعارات المستوى إلى {channel}**",
+    "channelDefault": "<:circlecheck:1519212246876557413> **سيتم إرسال إشعارات المستوى في نفس الروم**",
+    "xpRangeSet": "<:circlecheck:1519212246876557413> **تم تحديث نقاط الخبرة  {min}   {max}**",
+    "cooldownSet": "<:circlecheck:1519212246876557413> **تم تحديد وقت الانتظار إلى {secs} ثانية**",
+    "rewardAdded": "<:circlecheck:1519212246876557413> **الأعضاء الذين يصلون للمستوى {level} سيحصلون على {role}**",
+    "rewardRemoved": "<:circlecheck:1519212246876557413> **تم حذف جائزة المستوى {level}**"
+ }
+}
